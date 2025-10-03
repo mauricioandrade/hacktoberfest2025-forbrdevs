@@ -10,7 +10,7 @@ Durante o mês de outubro, devs do mundo todo contribuem para projetos de códig
 
 <img width="1209" height="582" alt="image" src="https://github.com/user-attachments/assets/d639635e-4d8d-44ea-95ce-df18189a2726" />
 
-Aqui você pode escolher como entrar, seja pelo GitHub ou GitLab.
+**Aqui você pode escolher como entrar, seja pelo GitHub ou GitLab.**
 
 ---
 
