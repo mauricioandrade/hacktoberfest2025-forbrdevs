@@ -27,11 +27,11 @@ Lá você encontra outros devs, descobre projetos ativos e pode tirar dúvidas e
 
 🔗 [Entrar no Discord](https://discord.gg/digitalocean)
 
-<<<<<<< HEAD
+
 =======
 **Entre no servidor do discord, aqui você consegue ver a maioria dos projetos que estão dentro do evento.**
 
->>>>>>> 41330e808cb3f835856294a27b2118c2ec97027a
+
 <img width="1191" height="535" alt="image" src="https://github.com/user-attachments/assets/93fb5923-b708-4084-ae65-ed5b18c756d3" />
 
 ---
@@ -74,3 +74,5 @@ No terminal:
 
 ```bash
 git checkout -b minha-feature
+
+=D
