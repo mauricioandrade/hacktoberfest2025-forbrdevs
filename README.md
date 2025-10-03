@@ -27,8 +27,6 @@ Lá você encontra outros devs, descobre projetos ativos e pode tirar dúvidas e
 
 🔗 [Entrar no Discord](https://discord.gg/digitalocean)
 
-
-=======
 **Entre no servidor do discord, aqui você consegue ver a maioria dos projetos que estão dentro do evento.**
 
 
