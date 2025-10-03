@@ -10,12 +10,29 @@ Durante o mês de outubro, devs do mundo todo contribuem para projetos de códig
 
 <img width="1209" height="582" alt="image" src="https://github.com/user-attachments/assets/d639635e-4d8d-44ea-95ce-df18189a2726" />
 
-**Aqui você pode escolher como entrar, seja pelo GitHub ou GitLab.**
+---
 
+## 🔑 Como participar
+
+Você pode entrar usando sua conta do **GitHub** ou **GitLab**:
+
+👉 [Entrar com GitHub](https://github.com/)  
+👉 [Entrar com GitLab](https://gitlab.com/)
+
+---
+
+### 💬 Comunidade no Discord
+Participe do **servidor oficial do Hacktoberfest no Discord** 🎧  
+Lá você encontra outros devs, descobre projetos ativos e pode tirar dúvidas em tempo real.
+
+🔗 [Entrar no Discord](https://discord.gg/digitalocean)
+
+<<<<<<< HEAD
+=======
 **Entre no servidor do discord, aqui você consegue ver a maioria dos projetos que estão dentro do evento.**
 
+>>>>>>> 41330e808cb3f835856294a27b2118c2ec97027a
 <img width="1191" height="535" alt="image" src="https://github.com/user-attachments/assets/93fb5923-b708-4084-ae65-ed5b18c756d3" />
-
 
 ---
 
