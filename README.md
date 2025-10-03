@@ -13,6 +13,7 @@ Durante o mês de outubro, devs do mundo todo contribuem para projetos de códig
 **Aqui você pode escolher como entrar, seja pelo GitHub ou GitLab.**
 
 **Entre no servidor do discord, aqui você consegue ver a maioria dos projetos que estão dentro do evento.**
+---
 <img width="1191" height="535" alt="image" src="https://github.com/user-attachments/assets/93fb5923-b708-4084-ae65-ed5b18c756d3" />
 
 
