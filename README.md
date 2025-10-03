@@ -1,5 +1,7 @@
 # 🎃 Hacktoberfest 2025 — Guia para Devs Brasileiros
 
+<img width="1024" height="1024" alt="ChatGPT Image 3 de out  de 2025, 19_52_23" src="https://github.com/user-attachments/assets/2de64f70-a65b-41b7-8102-ea217d902e0e" />
+
 ---
 
 ## 🌟 O que é o Hacktoberfest?
