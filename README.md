@@ -66,7 +66,18 @@ Lá você encontra outros devs, descobre projetos ativos e pode tirar dúvidas e
 
 ### 2️⃣ Encontre projetos
 - Procure repositórios com o tópico `hacktoberfest`.  
-- Veja issues com tags como `good first issue` ou `help wanted`.  
+- Veja issues com tags como `good first issue` ou `help wanted`.
+
+## 🧩 Projetos para Contribuir (exemplos)
+
+| Nº | Projeto | Stack | Descrição |
+|---|---------|-------|-----------|
+| 1 | [DocsGPT](https://github.com/arc53/DocsGPT) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Ferramenta open-source de GenAI que ajuda usuários a obter respostas confiáveis a partir de qualquer fonte de conhecimento, reduzindo alucinações. |
+| 2 | [Agno](https://github.com/agno-agi/agno) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Framework completo para construir sistemas multi-agentes com memória, conhecimento e raciocínio. |
+| 3 | [golearn](https://github.com/zhravan/golearn) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) | Exercícios em CLI no estilo Rustlings para aprender Go resolvendo pequenos desafios de programação. |
+| 4 | [BOINC](https://github.com/BOINC/boinc) | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) | Plataforma de software para computação voluntária em larga escala (volunteer computing). |
+| 5 | [NodeBox](https://github.com/shreyansh-shankar/NodeBox) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Aplicativo baseado em nós para criar arte generativa e visualizações com código. |
+| 6 | [AlgoRise](https://github.com/Hackeries/AlgoRise) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) | Projeto da Hacktoberfest focado em web, utilizando Next.js, TypeScript e Supabase. |
 
 ### 3️⃣ Aceite uma issue
 - No GitHub, comente na issue:  
