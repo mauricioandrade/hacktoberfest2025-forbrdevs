@@ -73,16 +73,38 @@ Lá você encontra outros devs, descobre projetos ativos e pode tirar dúvidas e
 
 ---
 
-## 🧩 Projetos para Contribuir (exemplos)
+🧩 Projetos Hacktoberfest 2025
 
-| Nº | Projeto | Stack | Descrição |
-|---|---------|:-----:|-----------|
-| 1 | [DocsGPT](https://github.com/arc53/DocsGPT) | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div> | Ferramenta open-source de GenAI que ajuda usuários a obter respostas confiáveis a partir de qualquer fonte de conhecimento, reduzindo alucinações. |
-| 2 | [Agno](https://github.com/agno-agi/agno) | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div> | Framework completo para construir sistemas multi-agentes com memória, conhecimento e raciocínio. |
-| 3 | [golearn](https://github.com/zhravan/golearn) | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/></div> | Exercícios em CLI no estilo Rustlings para aprender Go resolvendo pequenos desafios de programação. |
-| 4 | [BOINC](https://github.com/BOINC/boinc) | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/></div> | Plataforma de software para computação voluntária em larga escala (volunteer computing). |
-| 5 | [NodeBox](https://github.com/shreyansh-shankar/NodeBox) | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div> | Aplicativo baseado em nós para criar arte generativa e visualizações com código. |
-| 6 | [AlgoRise](https://github.com/Hackeries/AlgoRise) | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></div> | Projeto da Hacktoberfest focado em web, utilizando Next.js, TypeScript e Supabase. |
+Nº	Projeto	Stack	Descrição	🧠 Dificuldade	🌍 País / Comunidade	👥 Contribuidores	🧩 Good First Issues
+1	python-hacktoberfest25
+	<div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div>	Repositório comunitário com desafios e scripts para novos contribuidores.	🟢 Iniciante	🇮🇳 Índia / Global	~50+	🔗 good first issues
+
+2	OpenUI-Library
+	<div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></div>	Biblioteca de componentes UI modernos e acessíveis.	🟠 Intermediário	🇮🇷 Irã / Internacional	~100+	🔗 good first issues
+
+3	awesome-saas
+	<div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40"/></div>	Lista curada de ferramentas e recursos para construção de produtos SaaS.	🟢 Iniciante	🌍 Global	~80+	🔗 good first issues
+
+4	Topic_Tracker (v1-mvp)
+	<div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></div>	Sistema para acompanhar e gerenciar tópicos de estudo ou pesquisa.	🟠 Intermediário	🇮🇳 Índia / Comunidade JS	~30+	🔗 good first issues
+
+5	SuperTinyIcons
+	<div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svg/svg-original.svg" width="40"/></div>	Coleção de ícones SVG otimizados com menos de 1 KB.	🟢 Iniciante	🇬🇧 Reino Unido / Comunidade Web	~150+	🔗 good first issues
+
+6	Gunicorn Prometheus Exporter
+	<div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div>	Exportador de métricas do Gunicorn para monitoramento com Prometheus.	🟠 Intermediário	🌍 Comunidade Python	~25+	🔗 good first issues
+
+7	CodeBoarding
+	<div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></div>	Plataforma de onboarding técnico interativo com desafios de código.	🟠 Intermediário	🌍 Global	~40+	🔗 good first issues
+
+8	Paisable
+	<div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div>	Gerador de música procedural em Python com IA e harmonia adaptativa.	🟠 Intermediário	🌍 Comunidade AI / Música	~20+	🔗 good first issues
+
+9	Zettanote
+	<div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></div>	Aplicativo de anotações inspirado em Zettelkasten com sincronização em tempo real.	🟠 Intermediário	🌍 Comunidade Web	~30+	🔗 good first issues
+
+10	Standard Agent
+	<div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div>	Framework para criação de agentes de IA interoperáveis e compatíveis com MCP.	🟠 Intermediário	🌍 Comunidade AI / Agentes	~25+	🔗 good first issues
 
 ---
 
