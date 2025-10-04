@@ -77,7 +77,7 @@ Lá você encontra outros devs, descobre projetos ativos e pode tirar dúvidas e
 | 3 | [golearn](https://github.com/zhravan/golearn) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30"/> | Exercícios em CLI no estilo Rustlings para aprender Go resolvendo pequenos desafios de programação. |
 | 4 | [BOINC](https://github.com/BOINC/boinc) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> | Plataforma de software para computação voluntária em larga escala (volunteer computing). |
 | 5 | [NodeBox](https://github.com/shreyansh-shankar/NodeBox) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> | Aplicativo baseado em nós para criar arte generativa e visualizações com código. |
-| 6 | [AlgoRise](https://github.com/Hackeries/AlgoRise) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="30"/> | Projeto da Hacktoberfest focado em web, utilizando Next.js, TypeScript e Supabase. |
+| 6 | [AlgoRise](https://github.com/Hackeries/AlgoRise) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> | Projeto da Hacktoberfest focado em web, utilizando Next.js, TypeScript e Supabase. |
 
 ### 3️⃣ Aceite uma issue
 - No GitHub, comente na issue:  
