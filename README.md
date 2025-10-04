@@ -105,7 +105,6 @@ Lá você encontra outros devs, descobre projetos ativos e pode tirar dúvidas e
 | 🤖 **Standard Agent**               | [good first issues](https://github.com/jentic/standard-agent/labels/good%20first%20issue)                      |
 
 ---
----
 
 ### 3️⃣ Aceite uma issue
 - No GitHub, comente na issue:  
