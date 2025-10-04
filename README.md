@@ -75,15 +75,37 @@ Lá você encontra outros devs, descobre projetos ativos e pode tirar dúvidas e
 
 ## 🧩 Projetos para Contribuir (exemplos)
 
-| Nº | Projeto | Stack | Descrição |
-|---|---------|:-----:|-----------|
-| 1 | [DocsGPT](https://github.com/arc53/DocsGPT) | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div> | Ferramenta open-source de GenAI que ajuda usuários a obter respostas confiáveis a partir de qualquer fonte de conhecimento, reduzindo alucinações. |
-| 2 | [Agno](https://github.com/agno-agi/agno) | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div> | Framework completo para construir sistemas multi-agentes com memória, conhecimento e raciocínio. |
-| 3 | [golearn](https://github.com/zhravan/golearn) | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/></div> | Exercícios em CLI no estilo Rustlings para aprender Go resolvendo pequenos desafios de programação. |
-| 4 | [BOINC](https://github.com/BOINC/boinc) | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/></div> | Plataforma de software para computação voluntária em larga escala (volunteer computing). |
-| 5 | [NodeBox](https://github.com/shreyansh-shankar/NodeBox) | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div> | Aplicativo baseado em nós para criar arte generativa e visualizações com código. |
-| 6 | [AlgoRise](https://github.com/Hackeries/AlgoRise) | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></div> | Projeto da Hacktoberfest focado em web, utilizando Next.js, TypeScript e Supabase. |
+| Nº | Projeto                                                                                       |                                                                  Stack                                                                  | Descrição                                                                                            |
+| -- | --------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------- |
+| 1  | [python-hacktoberfest25](https://github.com/chetannihith/python-hacktoberfest25)              |     <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div>     | Repositório comunitário com desafios e scripts em Python para novos contribuidores da Hacktoberfest. |
+| 2  | [OpenUI-Library](https://github.com/alirezazim03/OpenUI-Library)                              | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></div> | Biblioteca open-source de componentes UI modernos e acessíveis para aplicações web.                  |
+| 3  | [awesome-saas](https://github.com/alchemyst-ai/awesome-saas)                                  |   <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40"/></div>   | Lista curada de ferramentas, frameworks e recursos para construção de produtos SaaS.                 |
+| 4  | [Topic_Tracker (v1-mvp)](https://github.com/kunal534/Topic_Tracker/tree/v1-mvp-working)       | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></div> | Sistema para acompanhar e gerenciar tópicos de estudo ou pesquisa com interface simples.             |
+| 5  | [SuperTinyIcons](https://github.com/edent/supertinyicons/)                                    |        <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svg/svg-original.svg" width="40"/></div>        | Coleção de ícones SVG otimizados com menos de 1KB, ideais para projetos web leves.                   |
+| 6  | [Gunicorn Prometheus Exporter](https://github.com/Agent-Hellboy/gunicorn-prometheus-exporter) |     <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div>     | Exportador de métricas do Gunicorn para monitoramento com Prometheus.                                |
+| 7  | [CodeBoarding](https://github.com/CodeBoarding/CodeBoarding)                                  | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></div> | Plataforma de onboarding técnico interativo com desafios de código para novos desenvolvedores.       |
+| 8  | [Paisable](https://github.com/Code-A2Z/paisable)                                              |     <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div>     | Gerador de música procedural em Python com IA e regras de harmonia.                                  |
+| 9  | [Zettanote](https://github.com/braydenidzenga/zettanote)                                      | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></div> | Aplicativo de anotações inspirado em Zettelkasten com sincronização em tempo real.                   |
+| 10 | [Standard Agent](https://github.com/jentic/standard-agent)                                    |     <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div>     | Framework para criação de agentes de IA interoperáveis e compatíveis com o padrão MCP.               |
 
+🧩 Good First Issues (para começar a contribuir)
+
+💡 Se você é iniciante, comece por uma dessas issues marcadas como good first issue — ideais para aprender e participar da Hacktoberfest!
+---
+| Projeto                             | Link direto                                                                                                    |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 🐍 **python-hacktoberfest25**       | [good first issues](https://github.com/chetannihith/python-hacktoberfest25/labels/good%20first%20issue)        |
+| 🧩 **OpenUI-Library**               | [good first issues](https://github.com/alirezazim03/OpenUI-Library/labels/good%20first%20issue)                |
+| 💼 **awesome-saas**                 | [good first issues](https://github.com/alchemyst-ai/awesome-saas/labels/good%20first%20issue)                  |
+| 🗂 **Topic_Tracker**                | [good first issues](https://github.com/kunal534/Topic_Tracker/labels/good%20first%20issue)                     |
+| 🎨 **SuperTinyIcons**               | [good first issues](https://github.com/edent/supertinyicons/labels/good%20first%20issue)                       |
+| 📊 **Gunicorn Prometheus Exporter** | [good first issues](https://github.com/Agent-Hellboy/gunicorn-prometheus-exporter/labels/good%20first%20issue) |
+| 🧠 **CodeBoarding**                 | [good first issues](https://github.com/CodeBoarding/CodeBoarding/labels/good%20first%20issue)                  |
+| 🎵 **Paisable**                     | [good first issues](https://github.com/Code-A2Z/paisable/labels/good%20first%20issue)                          |
+| 📝 **Zettanote**                    | [good first issues](https://github.com/braydenidzenga/zettanote/labels/good%20first%20issue)                   |
+| 🤖 **Standard Agent**               | [good first issues](https://github.com/jentic/standard-agent/labels/good%20first%20issue)                      |
+
+---
 ---
 
 ### 3️⃣ Aceite uma issue
