@@ -17,7 +17,8 @@ Durante o mês de outubro, devs do mundo todo contribuem para projetos de códig
 ## 🔑 Como participar
 
 🎥 Tutorial em vídeo:  
-https://github.com/user-attachments/assets/0d885ba9-8533-4406-ae55-2858d39b4e7d
+
+https://github.com/user-attachments/assets/b0e9a011-9b8e-4706-a71f-090fb4f781a3
 
 **A qualidade do áudio não está das melhores, pois precisei comprimir o vídeo para funcionar aqui.**
 
