@@ -72,12 +72,12 @@ Lá você encontra outros devs, descobre projetos ativos e pode tirar dúvidas e
 
 | Nº | Projeto | Stack | Descrição |
 |---|---------|-------|-----------|
-| 1 | [DocsGPT](https://github.com/arc53/DocsGPT) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Ferramenta open-source de GenAI que ajuda usuários a obter respostas confiáveis a partir de qualquer fonte de conhecimento, reduzindo alucinações. |
-| 2 | [Agno](https://github.com/agno-agi/agno) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Framework completo para construir sistemas multi-agentes com memória, conhecimento e raciocínio. |
-| 3 | [golearn](https://github.com/zhravan/golearn) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) | Exercícios em CLI no estilo Rustlings para aprender Go resolvendo pequenos desafios de programação. |
-| 4 | [BOINC](https://github.com/BOINC/boinc) | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) | Plataforma de software para computação voluntária em larga escala (volunteer computing). |
-| 5 | [NodeBox](https://github.com/shreyansh-shankar/NodeBox) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Aplicativo baseado em nós para criar arte generativa e visualizações com código. |
-| 6 | [AlgoRise](https://github.com/Hackeries/AlgoRise) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) | Projeto da Hacktoberfest focado em web, utilizando Next.js, TypeScript e Supabase. |
+| 1 | [DocsGPT](https://github.com/arc53/DocsGPT) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> | Ferramenta open-source de GenAI que ajuda usuários a obter respostas confiáveis a partir de qualquer fonte de conhecimento, reduzindo alucinações. |
+| 2 | [Agno](https://github.com/agno-agi/agno) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> | Framework completo para construir sistemas multi-agentes com memória, conhecimento e raciocínio. |
+| 3 | [golearn](https://github.com/zhravan/golearn) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30"/> | Exercícios em CLI no estilo Rustlings para aprender Go resolvendo pequenos desafios de programação. |
+| 4 | [BOINC](https://github.com/BOINC/boinc) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> | Plataforma de software para computação voluntária em larga escala (volunteer computing). |
+| 5 | [NodeBox](https://github.com/shreyansh-shankar/NodeBox) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> | Aplicativo baseado em nós para criar arte generativa e visualizações com código. |
+| 6 | [AlgoRise](https://github.com/Hackeries/AlgoRise) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="30"/> | Projeto da Hacktoberfest focado em web, utilizando Next.js, TypeScript e Supabase. |
 
 ### 3️⃣ Aceite uma issue
 - No GitHub, comente na issue:  
