@@ -16,6 +16,10 @@ Durante o mês de outubro, devs do mundo todo contribuem para projetos de códig
 
 ## 🔑 Como participar
 
+https://github.com/user-attachments/assets/0d885ba9-8533-4406-ae55-2858d39b4e7d
+
+**Qualidade do Áudio não está das melhores, pois preciso comprimir o vídeo para funcionar aqui**
+
 Você pode entrar usando sua conta do **GitHub** ou **GitLab**:
 
 👉 [Entrar com GitHub](https://github.com/)  
