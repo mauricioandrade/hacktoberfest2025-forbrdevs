@@ -27,6 +27,10 @@ Você pode entrar usando sua conta do **GitHub** ou **GitLab**:
 👉 [Entrar com GitHub](https://github.com/)  
 👉 [Entrar com GitLab](https://gitlab.com/)
 
+## 🔑 Como fazer uma issue
+
+https://github.com/user-attachments/assets/29ac0df5-b4fd-4720-a04d-2e56c25bc11f
+
 ---
 
 ## 💬 Comunidade no Discord
