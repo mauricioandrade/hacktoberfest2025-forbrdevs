@@ -88,7 +88,6 @@ Lá você encontra outros devs, descobre projetos ativos e pode tirar dúvidas e
 | 9  | [Zettanote](https://github.com/braydenidzenga/zettanote)                                      | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></div> | Aplicativo de anotações inspirado em Zettelkasten com sincronização em tempo real.                   |
 | 10 | [Standard Agent](https://github.com/jentic/standard-agent)                                    |     <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div>     | Framework para criação de agentes de IA interoperáveis e compatíveis com o padrão MCP.               |
 
-🧩 Good First Issues (para começar a contribuir)
 
 💡 Se você é iniciante, comece por uma dessas issues marcadas como good first issue — ideais para aprender e participar da Hacktoberfest!
 ---
