@@ -15,22 +15,22 @@ Durante o mês de outubro, devs do mundo todo contribuem para projetos de códig
 ---
 
 ## 💬 EXEMPLO DE UMA PARTICIPAÇÃO REAL NO HACKTOBERFEST
-1) Foi escolhido essa issue onde voce teria que traduzir a aplicacao para outras linguagens
+1) Foi escolhida essa issue onde você teria que traduzir a aplicação para outras linguagens
 <img width="1098" height="470" alt="Captura de Tela 2025-10-04 às 16 19 09" src="https://github.com/user-attachments/assets/6be7d41f-98cc-4015-bcc5-4641a1053180" />
 
-2) Automaticamente quando voce encontrar uma issue que acredite ter condiçoes de ajudar, peça para trabalhar neal, isso é obrigatorio para evitar que voce trabalhe em uma issue que outra pessoa ja esta finalizando.
+2) Assim que você encontrar uma issue que acredite ter condições de ajudar, peça para trabalhar nela, isso é obrigatório para evitar que você trabalhe em uma issue que outra pessoa já esteja finalizando.
 <img width="1098" height="345" alt="Captura de Tela 2025-10-04 às 16 45 09" src="https://github.com/user-attachments/assets/68ec695a-2844-4fe9-9d46-ccc94e4636d8" />
 
-3) Uma vez que voce receber o "Assigment" (A autorização para começar) para trabalhar nessa issue voce pode clonar op repositorio original e trabalhar nele localmente.
+3) Uma vez que você receber o "Assignment" (a autorização para começar) para trabalhar nessa issue, você pode clonar o repositório original e trabalhar nele localmente.
 <img width="1098" height="476" alt="Captura de Tela 2025-10-04 às 17 12 25" src="https://github.com/user-attachments/assets/fe55a678-24ad-498a-a39d-18d2216c0974" />
 
-4) Enquanto seu PR nao for aprovado ele estara sob review tambem no site do hacktoberfest, uma vez que ele seja integrado em produção esse numero é atualizado e voce ja passa a contabilizar pontos para o hacktoberfest
+4) Enquanto seu PR não for aprovado, ele estará sob review também no site do hacktoberfest e, uma vez que ele seja integrado em produção, esse numero é atualizado e você já passa a contabilizar pontos para o hacktoberfest
 ![image png](https://github.com/user-attachments/assets/9823c849-62fb-4d18-ac21-266736837150)
 
 
 ## 🔑 Como participar
 
-🎥 Tutorial em vídeo:  
+🎥 Tutorial em vídeo:
 
 https://github.com/user-attachments/assets/0d02ac61-5786-4eb1-8348-2705eb397b09
 
